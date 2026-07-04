@@ -137,29 +137,7 @@ StudyStuff/
 └── README.md
 ```
 
----
 
-# 🚀 How to Run
-
-### Step 1
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/StudyStuff.git
-```
-
-### Step 2
-
-Open the project folder.
-
-### Step 3
-
-Open **index.html** in any modern web browser.
-
-No installation or backend server is required.
-
----
 
 # 📚 Learning Outcomes
 
